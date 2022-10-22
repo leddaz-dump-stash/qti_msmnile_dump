@@ -1,0 +1,14 @@
+# qssi-user 11 RKQ1.200928.002 1631956620804 release-keys
+- manufacturer: qualcomm
+- platform: msmnile
+- codename: msmnile
+- flavor: qssi-user
+- release: 11
+- id: RKQ1.200928.002
+- incremental: 1631956620804
+- tags: release-keys
+- fingerprint: qti/msmnile/msmnile:11/RKQ1.200928.002/1631956620804:user/release-keys
+- is_ab: false
+- brand: qti
+- branch: qssi-user-11-RKQ1.200928.002-1631956620804-release-keys
+- repo: qti_msmnile_dump

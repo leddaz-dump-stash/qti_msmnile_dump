@@ -1,0 +1,11 @@
+modem.img
+system/system/apex/com.android.vndk.current.apex
+system/system/euclid/my_heytap.img
+system/system/euclid/my_product.img
+system/system/euclid/my_region.img
+system/system/euclid/my_stock.img
+system/system/system_ext/priv-app/Settings/Settings.apk
+system/system/system_ext/priv-app/SystemUI/SystemUI.apk
+vendor/euclid/odm.img
+odm/etc/camera/license_release_fdc.lic
+odm/etc/camera/model/license.lic
